@@ -137,3 +137,35 @@ Screenshots of selected system interfaces can be added here.
 Web Developer & Database Administrator
 
 C# | ASP.NET | SQL Server | IT Instructor
+
+---
+
+## Screenshots
+
+### Employee Management
+![Employee Management](01-employee-management.png)
+
+### Data Import
+![Data Import](02-data-import.png)
+
+### Work Plan Management
+![Work Plan Management](03-work-plan-management.png)
+
+### Work Plan Days
+![Work Plan Days](06-work-plan-days.png)
+
+### Employee Plan Assignment
+![Employee Plan Assignment](08-employee-plan-assignment.png)
+
+### Security Plan Management
+![Security Plan Management](10-security-plan-management.png)
+
+### Attendance Operations
+![Attendance Operations](13-attendance-operations.png)
+
+### Delay Minutes Report
+![Delay Minutes Report](17-delay-minutes-report.png)
+
+### Attendance Report
+![Attendance Report](18-attendance-report.png)
+
