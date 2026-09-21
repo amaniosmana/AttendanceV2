@@ -124,11 +124,7 @@ The source code, production database, employee information, fingerprint records,
 
 ---
 
-## Screenshots
 
-Screenshots of selected system interfaces can be added here.
-
----
 
 ## Author
 
